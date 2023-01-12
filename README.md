@@ -6,7 +6,7 @@ In this case, I've run a logistic regression on it.
 
 For more information on the dataset: "https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Original%29"
 
-Alternatively, you can download it by running the following in RStudio: 
+You can download it by running the following in RStudio: 
 
     url <- "https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/wdbc.data"
     data <- read.csv(url, header = FALSE)
