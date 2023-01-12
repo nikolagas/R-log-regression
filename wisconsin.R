@@ -1,3 +1,4 @@
+# Load the dataset from a local file in RStudio
 wisconsin <- read.csv("wisconsin.csv")
 
 # Check for missing values
